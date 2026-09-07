@@ -34,7 +34,7 @@ Figure 2. Source code of the Drawing Shapes Software.
 
 ## Getting Started
 
-# Prerequisites
+### Prerequisites
 
 Java Development Kit (JDK) <br>
 Java-compatible IDE such as Eclipse, IntelliJ IDEA, or NetBeans  <br>
