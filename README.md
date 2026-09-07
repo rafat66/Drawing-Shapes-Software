@@ -6,10 +6,10 @@ Drawing Shapes Software is a small Java-based graphical application that allows 
 
 ## Features
 
-Draw ovals
-Draw rectangles
-Draw lines
-Select shape colors
+Draw ovals <br>
+Draw rectangles <br>
+Draw lines <br>
+Select shape colors <br>
 
 <img src="Figures/DSSIm.png" alt="Drawing Shapes Software" width="400"><br>
 Figure 1. Graphical user interface of the Drawing Shapes Software during execution.
@@ -18,8 +18,8 @@ Figure 1. Graphical user interface of the Drawing Shapes Software during executi
 
 ## Technologies
 
-Java
-Java Swing
+Java <br>
+Java Swing <br>
 
 ---
 
@@ -36,17 +36,17 @@ Figure 2. Source code of the Drawing Shapes Software.
 
 # Prerequisites
 
-Java Development Kit (JDK)
-Java-compatible IDE such as Eclipse, IntelliJ IDEA, or NetBeans
+Java Development Kit (JDK) <br>
+Java-compatible IDE such as Eclipse, IntelliJ IDEA, or NetBeans  <br>
 
 ---
 
 ## Running the Application
 
-1. Clone this repository.
-2. Open the project in your preferred Java IDE.
-3. Build the project.
-4. Run the main application class.
+1. Clone this repository. <br>
+2. Open the project in your preferred Java IDE. <br>
+3. Build the project. <br>
+4. Run the main application class. <br>
 
 License
 
