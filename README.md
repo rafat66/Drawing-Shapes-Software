@@ -55,9 +55,8 @@ Java-compatible IDE such as Eclipse, IntelliJ IDEA, or NetBeans  <br>
 
 Drawing Shapes Software [1] is used as an illustrative example in research on software analysis and visualization. The software is analyzed to extract its source-code elements, metrics, and relationships for visualization and analysis [2].
 
----
 
-## References
+### References
 
 [1] R. Al-Msie'deen, “Drawing Shapes Software”, https://github.com/rafat66/Drawing-Shapes-Software/.  <br>
 
