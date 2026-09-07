@@ -48,7 +48,9 @@ Java-compatible IDE such as Eclipse, IntelliJ IDEA, or NetBeans  <br>
 3. Build the project. <br>
 4. Run the main application class. <br>
 
-License
+---
+
+#### License
 
 This project is provided for educational and development purposes.
 
