@@ -22,8 +22,7 @@ Project Structure
 
 The project is organized into Java packages and classes that implement the drawing functionality, shape management, and graphical user interface.
 
-
-https://github.com/rafat66/Drawing-Shapes-Software/blob/main/Figures/DSS.png
+<img src="Figures/DSS.png" alt="Drawing Shapes Software" width="600"><br>
 Figure 2. Source code of the Drawing Shapes Software.
 
 Getting Started
