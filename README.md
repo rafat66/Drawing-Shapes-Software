@@ -11,7 +11,7 @@ Draw rectangles
 Draw lines
 Select shape colors
 
-<img src="Figures/DSSIm.png" alt="Drawing Shapes Software" width="600"><br>
+<img src="Figures/DSSIm.png" alt="Drawing Shapes Software" width="500"><br>
 Figure 1. Graphical user interface of the Drawing Shapes Software during execution.
 
 Technologies
