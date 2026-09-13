@@ -58,7 +58,7 @@ Drawing Shapes Software [1] is used as an illustrative example in research on so
 
 ### References
 
-[1] R. Al-Msie'deen, “Drawing Shapes Software”, https://github.com/rafat66/Drawing-Shapes-Software/.  <br>
+[1] Ra'Fat Al-Msie'deen, “Drawing Shapes Software,” GitHub repository, 2026. [Online]. https://github.com/rafat66/Drawing-Shapes-Software/.  <br>
 
 [2] R. Al-Msie'deen, “ScaMaha: A Tool for Parsing, Analyzing, and Visualizing Object-Oriented Software Systems,” International Journal of Computing and Digital Systems, vol. 17, no. 1, pp. 1-20, 2025. [PDF]
 
