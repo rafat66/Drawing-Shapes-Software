@@ -53,14 +53,18 @@ Java-compatible IDE such as Eclipse, IntelliJ IDEA, or NetBeans  <br>
 
 ## 📚 Research Background
 
-Drawing Shapes Software [1] is used as an illustrative example in research on software analysis and visualization. The software is analyzed to extract its source-code elements, metrics, and relationships for visualization and analysis [2].
+Drawing Shapes Software [1] is used as an illustrative example in research on software analysis and visualization. The software is analyzed to extract its source-code elements, metrics, and relationships for visualization and analysis [2], [3].
 
 
 ### References
 
 [1] Ra'Fat Al-Msie'deen, “Drawing Shapes Software,” GitHub repository, 2026. [Online]. https://github.com/rafat66/Drawing-Shapes-Software/.  <br>
 
-[2] R. Al-Msie'deen, “ScaMaha: A Tool for Parsing, Analyzing, and Visualizing Object-Oriented Software Systems,” International Journal of Computing and Digital Systems, vol. 17, no. 1, pp. 1-20, 2025. [PDF]
+[2] R. Al-Msie’deen, “ScaMaha: A Tool for Parsing, Analyzing, and Visualizing Object-Oriented Software Systems,” *International Journal of Computing and Digital Systems*, vol. 17, no. 1, pp. 1–20, 2025.  
+[PDF](https://rafat66.github.io/Al-Msie-Deen/img/ScaMaha.pdf)
+
+[3] R. Al-Msie’deen, “Requirements Traceability: Recovering and Visualizing Traceability Links Between Requirements and Source Code of Object-oriented Software Systems,” *International Journal of Computing and Digital Systems*, vol. 14, no. 1, pp. 279–295, 2023.  
+[PDF](https://rafat66.github.io/Al-Msie-Deen/img/RT.pdf)
 
 ---
 
