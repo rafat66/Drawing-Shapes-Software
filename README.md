@@ -66,7 +66,7 @@ The main enhancement in Version 2 is the addition of the 3D Rectangle, which ext
 
 Therefore, Version 2 provides the same basic drawing capabilities as the previous version while adding support for creating 3D Rectangle shapes, as shown in Figure 3.
 
-<img src="Figures/My3DRectangle.png" alt="Drawing Shapes Software" width="450"><br>
+<img src="Figures/My3DRectangle.png" alt="Drawing Shapes Software" width="350"><br>
 Figure 3. Graphical user interface of Drawing Shapes Software – Version 2 showing all supported shapes: Line, Rectangle, Oval, and 3D Rectangle.
 
 ---
