@@ -51,6 +51,26 @@ Java-compatible IDE such as Eclipse, IntelliJ IDEA, or NetBeans  <br>
 
 ---
 
+## Drawing Shapes Software – Version 2
+
+Drawing Shapes Software – Version 2 is an enhanced version of the previous Drawing Shapes Software. This version preserves the existing drawing functionality while introducing a new 3D Rectangle shape.
+
+The software allows users to draw and work with the following shapes:
+
+- Line
+- Rectangle
+- Oval
+- 3D Rectangle
+
+The main enhancement in Version 2 is the addition of the 3D Rectangle, which extends the shape-drawing capabilities of the previous version. The implementation is based on the previous version, with the new functionality integrated while preserving all existing drawing features.
+
+Therefore, Version 2 provides the same basic drawing capabilities as the previous version while adding support for creating 3D Rectangle shapes ().
+
+<img src="Figures/DSS.png" alt="Drawing Shapes Software" width="600"><br>
+Figure 2. Source code of the Drawing Shapes Software.
+
+---
+
 ## 📚 Research Background
 
 Drawing Shapes Software [1] is used as an illustrative example in research on software analysis and visualization. The software is analyzed to extract its source-code elements, metrics, and relationships for visualization and analysis [2], [3].
